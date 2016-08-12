@@ -114,6 +114,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="main.h" />
+    <ClInclude Include="RansomNote.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
